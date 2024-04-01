@@ -18,7 +18,7 @@ Grilli is a stunning UI/UX project aimed at creating an attractive website for a
 - **Footer**: Footer section providing additional links and contact information
 
 ## Preview 
- - Demo [Grilli](#)
+ - Demo [Grilli](https://grillireactapp.netlify.app/)
 
 ## Usage
 
