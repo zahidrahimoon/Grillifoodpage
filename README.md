@@ -15,7 +15,7 @@ Grilli is a stunning UI/UX project aimed at creating an attractive website for a
 - **Contact Us**: Contact information and a form for inquiries or reservations.
 - **Features**: Highlighting unique features or offerings of the restaurant.
 - **Event**: Information about upcoming events or special occasions.
-- **Footer**: Footer section providing additional links and contact information
+- **Footer**: Footer section providing additional links and contact information.
 
 ## Preview 
  - Demo [Grilli](https://grillireactapp.netlify.app/)
